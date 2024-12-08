@@ -1,3 +1,4 @@
+Ammo Engine is just a fork of Godot for me to learn about game engines.
 # Godot Engine
 
 <p align="center">
